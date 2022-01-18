@@ -1,4 +1,6 @@
-# EPI Judge
+# EPI Judge - Rita Liu variant solutions
+
+## Solved: 4.4
 
 ## Beta 5
 
